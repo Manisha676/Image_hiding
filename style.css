@@ -1,0 +1,21 @@
+#img{
+    width: 500px;
+    height: 400px;
+    margin:auto;
+}
+#btn{
+    width: 500px;
+    margin:auto;
+    height: 100px;
+    width: 150px;
+    margin-bottom:20px ;
+    padding-top: 80px;
+     display: flex;
+    place-items: center;
+    
+   
+}
+#button-1{
+    background-color: rgb(153, 149, 149);
+    color: white;
+}
